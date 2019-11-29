@@ -15,6 +15,11 @@
       {
         "name": "tslint-language-service"
       }
+    ],
+    "types": [
+      "@wdio/sync",
+      "mocha",
+      "node"
     ]
   },
   "include": [
